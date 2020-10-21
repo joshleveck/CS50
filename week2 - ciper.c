@@ -40,10 +40,4 @@ int main(int argc, string argv[]) {
         }
         printf("\n");
     }
-
-    //if its the wrong length return this
-    else {
-        printf("Please include 26 characters after ./cipher");
-        return 1;
-    }
 }
