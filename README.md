@@ -23,3 +23,12 @@ Week 4 - Helpers takes an image imput and applies a filter to it. There are 4 fi
   
 Week 5 - Dictionary takes a dictionary and a text document and compares them. If a word is not in the dictionary it prints it and then counts the number of "misspelled" words.
   The point of this program was to develop a fast algorithm that comparing the two wouldn't be too slow of a process.
+  
+Week 6 - Hello is just a basic Python program that returns the users inputted name.
+This file can run on its own.
+
+Week 6 - Mario is the same program as Week 1 but its in Python and recursive.
+This file can run on its own.
+
+Week 6 - Credit is a program that checks if a string of numbers is a credit card and what company that credit card is for (AMEX, MASTERCARD, VISA).
+This file can run on its own.
